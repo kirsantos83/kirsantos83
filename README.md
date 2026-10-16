@@ -32,4 +32,4 @@ Based in Ukraine 🇺🇦 · Open to freelance and contract work.
 ## 📫 Contact
 
 - Email: [kirsantos@gmail.com](mailto:kirsantos@gmail.com)
-- LinkedIn: LINKEDIN_URL
+- LinkedIn: [linkedin.com/in/kirsavin](https://www.linkedin.com/in/kirsavin/)
